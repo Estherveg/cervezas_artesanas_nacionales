@@ -1,5 +1,5 @@
 # Object file
 *.o
 
-# Ada Library Information
-*.ali
+# Ficheros auxiliares
+NO_GIT_*
