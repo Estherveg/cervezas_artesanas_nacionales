@@ -11,8 +11,6 @@ El proyecto sigue la siguiente estructura de ficheros y fases:
 
 
 
-
-
 Retrato robot de la cerveza artesana obtenido tras el estudio
 
-![imagen](./IMG_4467_pe.jpg)
+![imagen](./graficas/IMG_4467_pe.jpg)
