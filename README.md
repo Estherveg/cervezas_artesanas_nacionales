@@ -9,6 +9,8 @@ El proyecto sigue la siguiente estructura de ficheros y fases:
 4. *Carpeta data*: Fichero original y tablas de trabajo generadas
 5. *Carpeta graficas*: Graficas generadas y utilizadas en el informe
 
+
+
 Retrato robot de la cerveza artesana obtenido tras el estudio
 
 ![imagen](./IMG_4467_pe.jpg)
